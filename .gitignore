@@ -1,0 +1,6 @@
+.log
+
+.idea/*
+__pycache__/*
+build/*
+ChinaID.egg-info/*
